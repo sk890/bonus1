@@ -2,4 +2,4 @@
 cs1520 Bonus 1 files and submission
 
 # Instructions
--Open bonus_one.html
+-Open template/bonus_one.html
