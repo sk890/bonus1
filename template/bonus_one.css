@@ -96,3 +96,36 @@ input:-moz-placeholder {
   line-height: 45px;
   text-align: center;
 }
+
+.results {
+  display: flex;
+  align-items: center;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 60px;
+  width: 97%;
+  padding: 0 46px 0 10px;
+  border-color: #888;
+  border-style: solid;
+  border-width: 1px;
+  color: #333;
+  font-family: 'Helvetica', sans-serif;
+  font-size: 20px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  cursor: pointer;
+}
+
+.results:hover{
+   background-color:#9BE3FD;
+}
+
+#result_container{
+	margin-left:30px;
+}
+
+#result_container a {
+	color: black;
+    text-decoration: none;
+}
